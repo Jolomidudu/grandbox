@@ -1,3 +1,4 @@
+"use client";
 import { Header } from "@/components/Header";
 import { BottomNav } from "@/components/BottomNav";
 import { Package } from "lucide-react";

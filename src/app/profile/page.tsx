@@ -1,3 +1,4 @@
+"use client";
 import { Header } from "@/components/Header";
 import { BottomNav } from "@/components/BottomNav";
 import { User, Settings, Heart, MapPin, CreditCard, LogOut } from "lucide-react";
